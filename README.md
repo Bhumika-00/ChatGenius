@@ -51,7 +51,6 @@ chatbot-app/
 │── index.html          # Main HTML file
 │── style.css           # Stylesheet for chatbot UI
 │── script.js           # Main JavaScript logic for chatbot functionality
-│── assets/             # Contains images, icons, and other assets
 ```
 
 ## 🔧 Known Issues & Future Improvements
